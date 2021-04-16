@@ -1,0 +1,90 @@
+.nav-tabs {
+  border: 0;
+}
+.nav {
+  display: inherit;
+  text-align: center;
+}
+.nav li {
+  display: inline-block;
+}
+.logo a {
+  font-size: 25px;
+  color: rgb(34, 33, 33);
+}
+.navbar-expand-sm .navbar-nav .nav-link {
+    padding-right: 8px;
+    padding-left: 8px;
+}
+form {
+  margin-top: 50px;
+}
+.form-control {
+  margin-bottom: 30px;
+  border: 1px solid #34353691;
+}
+.button {
+  margin-top: 40px;
+}
+.nav-link img {
+  width: 18px;
+  margin-top: -2px;
+}
+.navbar-expand-sm {
+  padding: 20px 0;
+  background: rgb(247, 241, 241);
+}
+.navbar-expand-sm .row {
+  width: 100%;
+}
+.nav-tabs .nav-link {
+  background: #fff;
+  border: 1px solid #000;
+  border-radius: 0;
+  margin: 0 10px;
+}
+
+.nav-tabs .nav-link.active {
+  border: 2px solid #000;
+  background: #fff;
+  border-radius: 0;
+}
+#activity {
+  padding-top: 20px;
+}
+.term_list {
+  margin-top: 20px;
+}
+.term_list li {
+  font-size: 18px;
+  font-weight: 400;
+  margin: 10px 0;
+}
+.navbar-nav li a {
+  color: rgb(88, 86, 86);
+}
+.navbar-nav li a span {
+  color: rgb(67, 96, 221);
+}
+.main_nav{
+    background: rgb(56, 55, 55);
+    color: #fff;
+    padding-top: 14px;
+    margin-top: 10px;
+}
+.register_suys {
+    float: right;
+}
+.register_suys li,.menu li{
+    display: inline-block;
+    
+}
+.register_suys li a{
+    color: #fff;
+}
+.menu li:nth-child(2){
+    margin-left: 20px;
+}
+.register_suys li:nth-child(2){
+    margin-left: 20px;
+}
